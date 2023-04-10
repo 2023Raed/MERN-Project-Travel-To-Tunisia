@@ -1,0 +1,32 @@
+.house-for-rent-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('./house1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+  }
+  
+  .house-for-rent-heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .house-for-rent-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    margin-top: 1rem;
+   
+  }  
+  label{
+    color: black;
+  }

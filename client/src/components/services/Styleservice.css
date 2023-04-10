@@ -1,0 +1,40 @@
+.whole{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-align: center;
+    padding: 50px;
+    background-image: url('./rent.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+.pt1{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: 300;
+}
+.pt2{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: 300;
+}
+.pt3{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: 300;
+}
+.title{
+    text-align: center;
+    color: crimson;
+    text-shadow: 2px 2px;
+}
